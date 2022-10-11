@@ -625,7 +625,7 @@ client.on ('interactionCreate', async (interaction) => {
                                 
 
 
-client.login('MTAyNDI5NDk3MDE0MTcxNjYwMA.GtgV-2.VHBDA2XzU4ddnRnp2m6ZEI1Rma6nfV15g_8vnM')
+client.login('DISCORD BOT TOKEN HERE')
 
 
 
